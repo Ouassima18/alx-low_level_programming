@@ -5,7 +5,7 @@
  *  * main - Entry point
  *   * the program prints from 0 to 9
  *    * Return: 0
- *     */
+ */
 int main(void)
 {
 	char n;
