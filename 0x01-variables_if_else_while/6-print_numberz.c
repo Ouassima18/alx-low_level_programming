@@ -5,14 +5,14 @@
  *  * main - Entry point
  *   * the program prints from 0 to 9
  *    * Return: 0
-   */
+  */
 int main(void)
 {
-	char n;
+	int n;
 
-	n = '0';
+	n = 48;
 
-	while (n <= '9')
+	while (n <= 57)
 	{
 		putchar(n);
 		n++;
